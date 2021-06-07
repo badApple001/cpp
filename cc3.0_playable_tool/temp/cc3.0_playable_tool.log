@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  cc3.0_playable_tool.cpp
+E:\GIT\Github\cpp\cc3.0_playable_tool\cc3.0_playable_tool\cc3.0_playable_tool.cpp(156,21): warning C4018: “<”: 有符号/无符号不匹配
+  cc3.0_playable_tool.vcxproj -> E:\GIT\Github\cpp\cc3.0_playable_tool\bin\YI.exe
